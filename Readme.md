@@ -11,8 +11,11 @@ mkdir /workspace/npm-cache/npm_cache
 ng new ng-npm-cache --skip-install --skip-git
 cd ng-npm-cache
 npm install --online --cache=/workspace/npm-cache/npm_cache
-npm install @angular/material --online --cache=/workspace/npm-cache/npm_cache
-npm install @angular/cdk --online --cache=/workspace/npm-cache/npm_cache
+npm install @angular/material@10.2.0 --online --cache=/workspace/npm-cache/npm_cache
+npm install @angular/cdk@10.2.0 --online --cache=/workspace/npm-cache/npm_cache
+npm install @tensorflow/tfjs --online --cache=/workspace/npm-cache/npm_cache
+npm install pkg --online --cache=/workspace/npm-cache/npm_cache
+npm install javascript-lp-solver --online --cache=/workspace/npm-cache/npm_cache
 ```
 
 ## Offline Machine
