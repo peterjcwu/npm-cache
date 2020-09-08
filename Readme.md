@@ -1,9 +1,11 @@
 # NPM-Cache
 
-This project store the npm-cache for offline install
+This project stores cahce for offline npm installation
 
 
 ## Online Machine
+
+### 2020-09-04
 
 ```bash
 npm install -g @angular/cli
