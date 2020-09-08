@@ -18,6 +18,16 @@ npm install pkg --online --cache=/workspace/npm-cache/npm_cache
 npm install javascript-lp-solver --online --cache=/workspace/npm-cache/npm_cache
 ```
 
+### 2020-09-08
+
+```bash
+npm install mxgraph --online --cache=/workspace/npm-cache/npm_cache
+npm install material-design-icons --online --cache=/workspace/npm-cache/npm_cache
+npm install http-server --online --cache=/workspace/npm-cache/npm_cache
+npm install @angular/pwa --online --cache=/workspace/npm-cache/npm_cache
+
+```
+
 ## Offline Machine
 
 Copy /workspace/npm-cache/npm_cache to "D:\\bin\\npm_cache"
