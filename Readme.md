@@ -23,11 +23,17 @@ npm install javascript-lp-solver --online --cache=/workspace/npm-cache/npm_cache
 ### 2020-09-08
 
 ```bash
-npm install --online --cache=/workspace/npm-cache/npm-cache-0908
-npm install mxgraph --online --cache=/workspace/npm-cache/npm-cache-0908
+cd ng-npm-cache
 npm install material-design-icons --online --cache=/workspace/npm-cache/npm-cache-0908
 npm install http-server --online --cache=/workspace/npm-cache/npm-cache-0908
-npm install @angular/pwa --online --cache=/workspace/npm-cache/npm-cache-0908
+```
+
+### 2020-09-08-01
+
+```bash
+cd ng-npm-cache
+npm install mxgraph --online --cache=/workspace/npm-cache/npm-cache-0908-1
+npm install @angular/pwa --online --cache=/workspace/npm-cache/npm-cache-0908-1
 
 ```
 
